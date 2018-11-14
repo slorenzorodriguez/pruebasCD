@@ -16,6 +16,12 @@ public class PRUEBASCD {
      */
     public static void main(String[] args) {
        // bring me back boyyy
+       int h;
+       int m;
+       int s;
+       
+              
+            
        
     }
     
