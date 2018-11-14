@@ -5,6 +5,8 @@
  */
 package pruebascd;
 
+import java.util.Scanner;
+
 /**
  *
  * @author Doctor Mantequilla
@@ -16,10 +18,14 @@ public class PRUEBASCD {
      */
     public static void main(String[] args) {
        // bring me back boyyy
-       int h;
-       int m;
-       int s;
+       Scanner res = new Scanner (System.in);
+       int h = 1;
+       int m = 3;
+       int s = 4;
+       int hor;
+        System.out.println("tengo"+ h + " y " + s + " y " + s);
        
+      
               
             
        
