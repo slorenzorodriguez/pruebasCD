@@ -22,8 +22,8 @@ public class PRUEBASCD {
        int h = 1;
        int m = 3;
        int s = 4;
-       int hor;
-        System.out.println("tengo"+ h + " y " + s + " y " + s);
+       int hor = h + m + s;
+        System.out.println("tengo "+ h + " y " + m + " y " + s + " me quedará " + hor + " como horario ");
        
       
               
